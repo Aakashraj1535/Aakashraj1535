@@ -71,7 +71,7 @@ A modern platform that enables students to submit complaints securely while allo
 
 <br>
 
-<a href="(https://github.com/Aakashraj1535/college-complaint-management-system)">
+<a href="https://github.com/Aakashraj1535/college-complaint-management-system.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -102,7 +102,7 @@ A responsive business website focused on performance, SEO, and delivering an exc
 
 <br>
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/Aakashraj1535/sm-consultancy-.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
