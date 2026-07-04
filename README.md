@@ -1,115 +1,130 @@
-<h1 align="center">Hi 👋, I'm S. Aakash Raj</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=S.%20Aakash%20Raj&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20IT%20Student&descAlignY=55" width="100%">
+</p>
 
-<h3 align="center">
-Full Stack Developer • Information Technology Student • AI Enthusiast
-</h3>
+<h1 align="center">Hi 👋 I'm Aakash Raj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Angular+%7C+FastAPI;Learning+AI+and+Machine+Learning;Building+Projects+that+Solve+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Information+Technology+Student;React+%7C+Angular+%7C+FastAPI;Building+Real+World+Projects;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New+🚀">
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Final Year Information Technology Student
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Passionate Full Stack Developer
+```yaml
+Name:        S. Aakash Raj
+Location:    Chennai, India 🇮🇳
 
-🚀 Love building scalable web applications
+Education:
+  🎓 B.Tech Information Technology
 
-🌱 Currently learning AI, Machine Learning & System Design
+Current Focus:
+  🚀 Full Stack Development
+  🤖 Artificial Intelligence
+  📊 Data Analytics
+  ☁️ Cloud Computing
 
-⚡ Interested in Web Development, Backend Engineering and Data Analytics
+Currently Learning:
+  • Machine Learning
+  • System Design
+  • Backend Architecture
 
-🎯 Goal: Become a Software Engineer at a Top Product Company
+Goal:
+  Become a Software Engineer at a Product Company
+```
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,js,html,css,python,sql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
 
-### Frontend
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,vite,tailwind"/>
 
-### Backend
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase"/>
 
-### Database
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
-
-### Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ## 🎓 College Complaint Management System
 
-✔ Anonymous Complaint Submission
+✔ Anonymous Complaints
 
-✔ Role-Based Authentication
+✔ Role Based Authentication
 
-✔ Image Upload Support
+✔ Secure Login
 
-✔ Secure Login using JWT
+✔ Image Upload
 
-✔ Built using React, Supabase & PostgreSQL
+✔ PostgreSQL + Supabase
 
----
+✔ Responsive UI
+
+**Tech**
+
+React • Supabase • PostgreSQL
+
+</td>
+
+<td width="50%">
 
 ## 🌐 Business Website
 
-✔ Responsive React Website
+✔ React + Vite
 
 ✔ SEO Optimized
 
 ✔ Google Search Console
 
-✔ Web3Forms Integration
+✔ Web3Forms
 
-✔ Hosted on Vercel
+✔ Vercel Deployment
+
+✔ Responsive Design
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -117,16 +132,42 @@ Full Stack Developer • Information Technology Student • AI Enthusiast
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📫 Connect with Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -142,16 +183,38 @@ Full Stack Developer • Information Technology Student • AI Enthusiast
 
 ---
 
-# 💭 Quote
+# ⚡ Fun Fact
 
-> "Code. Learn. Build. Repeat."
+```javascript
+while(alive){
+
+   Eat();
+   Sleep();
+   Code();
+   Learn();
+   Repeat();
+
+}
+```
+
+---
+
+# 💭 Dev Quote
+
+> "Great software isn't written by chance. It's built one commit at a time."
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</p>
