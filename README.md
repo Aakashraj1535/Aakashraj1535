@@ -1,179 +1,170 @@
+
+# Hi 👋, I'm S. Aakash Raj
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=S.%20Aakash%20Raj&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20IT%20Student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=S.%20Aakash%20Raj&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20IT%20Student&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+S.+Aakash+Raj;Full+Stack+Developer;React+•+Angular+•+FastAPI;AI+Enthusiast;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real+World+Software;React+•+Angular+•+FastAPI;AI+Enthusiast;Open+Source+Learner;Welcome+to+my+GitHub!"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+# 🖥️ Developer Dashboard
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<table>
+<tr>
+<td width="50%">
 
-```yaml
-Name: S. Aakash Raj
+## 👨 About Me
 
-Role: Full Stack Developer
-
-Education: B.Tech Information Technology
-
-CGPA: 8.67
-
-Location: Chennai, India
-
-Experience:
-  - Full Stack Intern
-  - Web Development Intern
-
-Current Focus:
-  - React
-  - Angular
-  - FastAPI
-  - Artificial Intelligence
-  - Backend Development
-
-Learning:
-  - Machine Learning
-  - System Design
-  - Cloud
-
-Goal:
-  Build software that impacts millions 🚀
+```bash
+> Name        : S. Aakash Raj
+> Role        : Full Stack Developer
+> Education   : B.Tech Information Technology
+> Location    : Chennai, India
+> Status      : Available for Opportunities
+> Focus       : AI + Full Stack + Backend
 ```
+
+</td>
+
+<td width="50%">
+
+## ⚡ Current Mission
+
+- 🚀 Building impactful software
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Learning scalable backend systems
+- 📈 Improving DSA & System Design
+- ☕ Coffee → Code → Repeat
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+# 🧩 Tech Arsenal
 
-<p align="center">
+<table>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Database</b></td>
+<td align="center"><b>Tools</b></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,tailwind,vite"/>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,vite,tailwind"/>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+</td>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase"/>
-
-<br><br>
-
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## 🎓 College Complaint Management
+### 🎓 College Complaint Management System
 
-Anonymous Complaint Submission
+```text
+Framework : React
+Database  : PostgreSQL + Supabase
+Security  : JWT Authentication
+Features  :
+✓ Anonymous Complaints
+✓ Faculty Dashboard
+✓ Student Dashboard
+✓ Image Upload
+✓ Real-Time Updates
 
-Faculty Dashboard
-
-Student Dashboard
-
-JWT Authentication
-
-Supabase
-
-PostgreSQL
-
-Responsive Design
+STATUS : 🟢 Completed
+```
 
 </td>
 
 <td width="50%">
 
-## 🌐 Business Website
+### 🌐 Business Website
 
-React
+```text
+Framework : React + Vite
+Deployment: Vercel
 
-Vite
+Features :
+✓ Responsive UI
+✓ SEO Optimized
+✓ Google Search Console
+✓ Web3Forms
+✓ Fast Performance
 
-SEO Optimization
-
-Google Search Console
-
-Web3Forms
-
-Vercel Deployment
-
-Responsive UI
+STATUS : 🚀 Live
+```
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 📈 GitHub Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7&no-frame=true"/>
 </p>
 
 ---
 
-# 💻 Current Learning
+# 📡 Current Progress
 
 ```text
-██████████████████████░░  React
-
-████████████████████░░░░  AI
-
-██████████████████░░░░░░  FastAPI
-
-████████████████░░░░░░░░  Machine Learning
-
-██████████████░░░░░░░░░░  System Design
+React              ████████████████████ 95%
+Angular            ██████████████████░ 90%
+FastAPI            ████████████████░░░ 80%
+Artificial Intel.  ██████████████░░░░░ 70%
+System Design      ████████████░░░░░░░ 60%
 ```
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -189,44 +180,31 @@ Responsive UI
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
 </p>
 
 ---
 
-# 💡 Developer Philosophy
+# 💻 Philosophy
 
 ```cpp
-while (alive) {
+while(success != true)
+{
     Learn();
     Build();
-    Debug();
+    Fail();
+    Improve();
     Commit();
-    Repeat();
 }
 ```
 
 ---
 
-# ☕ Random Dev Quote
+<div align="center">
 
-> **"The best way to learn is to build."**
-
----
-
-<p align="center">
+> **"Great software is built one commit at a time."**
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
-</p>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 </div>
