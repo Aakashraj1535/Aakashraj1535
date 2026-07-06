@@ -4,188 +4,142 @@
 
 ### Full Stack Developer • AI Enthusiast • IT Student
 
-Building modern web applications with **React**, **Angular**, **FastAPI**, and **PostgreSQL**.
-
 <p>
+<a href="https://github.com/Aakashraj1535"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aakash-raj-5677412b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:aakashraj1535@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://github.com/Aakashraj1535">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aakash-raj-5677412b1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:aakashraj1535@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Aakashraj1535&style=for-the-badge"/>
-
-</p>
+![](https://komarev.com/ghpvc/?username=Aakashraj1535&style=for-the-badge)
 
 </div>
 
 ---
 
-## About
+# 💫 About Me
 
-I'm a passionate **Full Stack Developer** from **India 🇮🇳** who enjoys building scalable software with modern technologies.
+I'm **S. Aakash Raj**, an Information Technology student at Easwari Engineering College with a passion for building scalable web applications and AI-powered solutions.
 
-My interests include **Backend Engineering**, **Artificial Intelligence**, **System Design**, and creating products with clean user experiences.
-
-Currently focused on building projects that solve real-world problems while continuously improving my software engineering skills.
-<br>
-
-## 🚀 Featured Projects
-
-<p align="center">
-<i>Projects that reflect my passion for building practical and scalable software.</i>
-</p>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 College Complaint Management System
-
-A modern platform that enables students to submit complaints securely while allowing faculty to efficiently manage and resolve them.
-
-<br>
-
-**Tech Stack**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,supabase,postgres" />
-</p>
-
-**Highlights**
-
-- 🔒 Secure Authentication
-- 🕵️ Anonymous Complaints
-- 🖼️ Image Upload
-- ⚡ Real-time Database
-- 👨‍🏫 Faculty Dashboard
-- 👨‍🎓 Student Dashboard
-
-<br>
-
-<a href="https://github.com/Aakashraj1535/college-complaint-management-system.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Business Website
-
-A responsive business website focused on performance, SEO, and delivering an excellent user experience.
-
-<br>
-
-**Tech Stack**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,vercel" />
-</p>
-
-**Highlights**
-
-- ⚡ Fast Performance
-- 📱 Responsive Design
-- 🔍 SEO Optimized
-- 🌍 Google Search Console
-- 📩 Web3Forms
-- 🚀 Vercel Deployment
-
-<br>
-
-<a href="https://github.com/Aakashraj1535/sm-consultancy-.git">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+- 🌱 Learning Full Stack Development & AI
+- 💻 React, Angular, FastAPI, PostgreSQL
+- 🔐 Interested in Cybersecurity & Software Engineering
+- 🤝 Open to internships and software engineering opportunities
 
 ---
 
-## ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,tailwind"/>
+## Frontend
+React • Angular • HTML • CSS • Tailwind CSS • Vite • ShadCN/UI
 
-<br><br>
+## Backend & Database
+FastAPI • Node.js • PostgreSQL • MySQL • Supabase
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,supabase"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,vercel"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aakashraj1535&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Aakashraj1535&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashraj1535&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+## Tools
+Git • GitHub • VS Code • Vercel • Canva
 
 ---
 
-## 🌱 Currently Learning
+# 🤖 AI / ML Expertise
 
-<div align="center">
-
-| 🚀 Focus | 📖 Learning |
-|:---------|:------------|
-| Full Stack Development | Machine Learning |
-| Backend Engineering | System Design |
-| Artificial Intelligence | Cloud Computing |
-
-</div>
+| Domain | Level | Details |
+|---------|------|---------|
+| AI Fundamentals | Intermediate | LLM-powered applications |
+| REST APIs | Advanced | FastAPI integration |
+| Full Stack Development | Advanced | React + Angular + PostgreSQL |
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 Featured Projects
 
-<p align="center">
+<details>
+<summary><b>College Complaint Management System</b></summary>
 
-<a href="https://github.com/Aakashraj1535">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+Built a secure complaint management platform with anonymous complaint submission, authentication, role-based access, image uploads and Supabase backend.
 
-<a href="https://linkedin.com/in/aakash-raj-5677412b1">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+| Category | Details |
+|-----------|----------|
+| Stack | Angular, FastAPI, PostgreSQL, Supabase |
+| Security | JWT Authentication |
+| Database | PostgreSQL |
+| Impact | Streamlined complaint handling |
 
-<a href="mailto:aakashraj1535@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</details>
 
 ---
 
-<div align="center">
+# 💼 Experience
 
-> ### *"I enjoy turning ideas into scalable software that creates real impact."*
+### Pro Phoenix Corporation
+**Full Stack Development Intern**
 
-</div>
+- Angular
+- FastAPI
+- PostgreSQL
+- API Development
+
+### SM Consultancy NZ Limited
+
+**Web Development & Accounting Intern**
+
+- React + Vite
+- SEO
+- Google Search Console
+- Xero Accounting
+
+---
+
+# 🏆 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=Aakashraj1535&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aakashraj1535&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashraj1535&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Aakashraj1535&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+```text
+Enable GitHub Actions and use Platane/snk to generate the snake animation.
+```
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - AI Applications
+Building:
+  - College Complaint Management System
+Exploring:
+  - Cybersecurity
+OpenTo:
+  - Software Engineering Internships
+```
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/Aakashraj1535
+- LinkedIn: https://www.linkedin.com/in/aakash-raj-5677412b1/
+- Email: aakashraj1535@gmail.com
+
+---
+
+> "Build solutions that create impact."
+
