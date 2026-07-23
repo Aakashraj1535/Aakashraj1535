@@ -12,10 +12,10 @@
 
 <!-- ================= SOCIAL / CONTACT BADGES ================= -->
 <p>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aakashraj1535@gmail.com">
     <img src="https://img.shields.io/badge/Email-8A63F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://linkedin.com/in/aakash-raj-5677412b1/>
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Aakashraj1535">
