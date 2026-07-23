@@ -189,9 +189,8 @@ A role-based web platform that lets students submit and track complaints while g
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakashraj1535&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=2563EB&text_color=C9D1D9&ring_color=8A63F5" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashraj1535&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aakashraj1535&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=2563EB&text_color=C9D1D9&ring_color=8A63F5" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aakashraj1535&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashraj1535&hide_border=true&background=0D1117&stroke=8A63F5&ring=8A63F5&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
