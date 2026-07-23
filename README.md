@@ -148,7 +148,7 @@ A role-based web platform that lets students submit and track complaints while g
 
 `React` `FastAPI` `PostgreSQL` `Supabase` `Tailwind CSS`
 
-**[View Repository →](#)**
+**[View Repository →](#)**https://github.com/Aakashraj1535/college-complaint-management-system
 
 </td>
 </tr>
