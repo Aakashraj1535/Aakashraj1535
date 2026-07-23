@@ -131,7 +131,7 @@ A multi-agent system that watches supply chain data, detects exceptions, and pro
 
 `React` `FastAPI` `PostgreSQL` `LangGraph` `Ollama` `pgvector`
 
-**[View Repository →](#)**https://github.com/Aakashraj1535/Sentinel
+**[View Repository →](https://github.com/Aakashraj1535/Sentinel)**
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +148,7 @@ A role-based web platform that lets students submit and track complaints while g
 
 `React` `FastAPI` `PostgreSQL` `Supabase` `Tailwind CSS`
 
-**[View Repository →](#)**https://github.com/Aakashraj1535/college-complaint-management-system
+**[View Repository →](https://github.com/Aakashraj1535/college-complaint-management-system)**
 
 </td>
 </tr>
