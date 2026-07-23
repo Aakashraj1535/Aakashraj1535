@@ -131,7 +131,7 @@ A multi-agent system that watches supply chain data, detects exceptions, and pro
 
 `React` `FastAPI` `PostgreSQL` `LangGraph` `Ollama` `pgvector`
 
-**[View Repository →](#)**
+**[View Repository →](#)**https://github.com/Aakashraj1535/Sentinel
 
 </td>
 <td width="50%" valign="top">
