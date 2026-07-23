@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/your-linkedin-handle">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/your-github-handle">
+  <a href="https://github.com/Aakashraj1535">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A63F5" alt="GitHub"/>
   </a>
   <a href="#">
@@ -27,7 +27,7 @@
 </p>
 
 <!-- ================= VISITOR COUNTER ================= -->
-<img src="https://komarev.com/ghpvc/?username=your-github-handle&label=Profile%20Views&color=8A63F5&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Aakashraj1535&label=Profile%20Views&color=8A63F5&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -194,11 +194,11 @@ A role-based web platform that lets students submit and track complaints while g
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashra1535&hide_border=true&background=0D1117&stroke=8A63F5&ring=8A63F5&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashraj1535&hide_border=true&background=0D1117&stroke=8A63F5&ring=8A63F5&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashraj535&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A63F5&line=2563EB&point=C9D1D9" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashraj1535&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A63F5&line=2563EB&point=C9D1D9" alt="Contribution Graph" width="100%"/>
 
 </div>
 
