@@ -17,7 +17,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: your-github-handle
+          github_user_name: Aakashraj1535
           outputs: |
             assets/snake.svg?color_snake=%238A63F5&color_dots=%230D1117,%232563EB,%238A63F5,%23C9D1D9
 
