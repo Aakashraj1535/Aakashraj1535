@@ -189,16 +189,16 @@ A role-based web platform that lets students submit and track complaints while g
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=2563EB&text_color=C9D1D9&ring_color=8A63F5" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-handle&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aakashraj1535&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=2563EB&text_color=C9D1D9&ring_color=8A63F5" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashraj1535&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-handle&hide_border=true&background=0D1117&stroke=8A63F5&ring=8A63F5&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashra1535&hide_border=true&background=0D1117&stroke=8A63F5&ring=8A63F5&fire=2563EB&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=6E7681" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-handle&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A63F5&line=2563EB&point=C9D1D9" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashraj535&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A63F5&line=2563EB&point=C9D1D9" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -208,7 +208,7 @@ A role-based web platform that lets students submit and track complaints while g
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-handle&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aakashraj1535&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
