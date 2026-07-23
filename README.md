@@ -207,7 +207,17 @@ A role-based web platform that lets students submit and track complaints while g
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aakashraj1535&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<div align="center">
+
+## Core Expertise
+
+![AI](https://img.shields.io/badge/AI_Agents-LangGraph-8A63F5?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Vector_Search-2563EB?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge)
+
+
 
 </div>
 
