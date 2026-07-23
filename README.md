@@ -218,7 +218,7 @@ A role-based web platform that lets students submit and track complaints while g
 
 ### Contribution Snake
 
-<img src="./assets/snake.svg" alt="Contribution Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aakashraj1535/Aakashraj1535/output/snake.svg" alt="Contribution Snake animation" width="100%"/>
 
 </div>
 
