@@ -15,7 +15,7 @@
   <a href="mailto:aakashraj1535@gmail.com">
     <img src="https://img.shields.io/badge/Email-8A63F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/aakash-raj-5677412b1/>
+  <a href="https://linkedin.com/in/aakash-raj-5677412b1/">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Aakashraj1535">
@@ -250,10 +250,10 @@ A role-based web platform that lets students submit and track complaints while g
 
 I'm open to Software Engineering and AI Engineering internships/roles, and to collaborating on full-stack or applied-AI projects.
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:aakashraj1535@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-8A63F5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/aakash-raj-5677412b1/>
+<a href="https://www.linkedin.com/in/aakash-raj-5677412b1/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
