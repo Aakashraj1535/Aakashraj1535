@@ -172,7 +172,7 @@ A role-based web platform that lets students submit and track complaints while g
 </td>
 <td width="50%" valign="top">
 
-**Web Developer Intern — Palamuti**
+**Client Project — Palamuti**
 
 - Designed and built the company's official website
 - Built reusable, responsive UI components
