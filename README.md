@@ -168,7 +168,7 @@ A role-based web platform that lets students submit and track complaints while g
 - Improved SEO rankings by implementing on-page SEO best practices
 - Optimized site performance and overall user experience
 - Collaborated with the team to strengthen the company's online presence
-- **[View Website →](https://www.smconsultancy.nz/)**
+   **[View Website →](https://www.smconsultancy.nz/)**
 
 
 </td>
